@@ -29,7 +29,7 @@ Abdul Rehman is an AI Engineer and recent BS Data Science graduate from FAST-NUC
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,c,html,css" alt="Python, JavaScript, TypeScript, C++, C, HTML, CSS" />
+  <img src="https://skillicons.dev/icons?i=py,java,cs,js,ts,cpp,c,html,css" alt="Python, Java, C#, JavaScript, TypeScript, C++, C, HTML, CSS" />
 </p>
 
 ### AI and LLM
@@ -101,18 +101,6 @@ Repository: [PakFinance RAG](https://github.com/AbdulRehman19-bit/REPO-NAME)
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AbdulRehman19-bit&show_icons=true&theme=tokyonight&hide_border=true" alt="Abdul Rehman GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman19-bit&layout=compact&theme=tokyonight&hide_border=true" alt="Abdul Rehman top languages" />
-
-<img src="https://streak-stats.demolab.com?user=AbdulRehman19-bit&theme=tokyonight&hide_border=true" alt="Abdul Rehman GitHub streak" />
-
-</div>
-
----
 
 ## Contact
 
@@ -124,4 +112,4 @@ GitHub: [github.com/AbdulRehman19-bit](https://github.com/AbdulRehman19-bit)
 
 ---
 
-**Keywords:** Abdul Rehman, AbdulRehman, Abdul Rehman GitHub, AI Engineer Pakistan, RAG Engineer, LLM Engineer, LangChain, LangGraph, FastAPI, FAST-NUCES, Data Science, Islamabad, Machine Learning Engineer
+**Keywords:** Abdul Rehman, AbdulRehman, Abdul Rehman GitHub, AI Engineer Pakistan, RAG Engineer, LLM Engineer, LangChain, LangGraph, FastAPI, Python, Java, C#, FAST-NUCES, Data Science, Islamabad, Machine Learning Engineer, Software Engineer
