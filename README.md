@@ -6,7 +6,7 @@
 
 Abdul Rehman is an AI Engineer and recent BS Data Science graduate from FAST-NUCES Islamabad, building production-grade RAG pipelines and LLM applications with LangChain, LangGraph, and FastAPI.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-abdul--rehman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-rehman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abdul--rehman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrehman19-bit/)
 [![Email](https://img.shields.io/badge/Email-abjuly20%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abjuly20@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-AbdulRehman19--bit-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdulRehman19-bit)
 
