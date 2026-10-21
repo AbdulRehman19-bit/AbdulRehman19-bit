@@ -107,7 +107,7 @@ Repository: [PakFinance RAG](https://github.com/AbdulRehman19-bit/REPO-NAME)
 I am seeking AI Engineer and Software Engineer opportunities in Pakistan, including remote roles. If you are building with RAG, LLMs, or full-stack AI products, I would welcome the conversation.
 
 Email: [abjuly20@gmail.com](mailto:abjuly20@gmail.com)
-LinkedIn: [linkedin.com/in/abdul-rehman](https://linkedin.com/in/abdul-rehman)
+LinkedIn: [linkedin.com/in/abdul-rehman](https://www.linkedin.com/in/abdulrehman19-bit/)
 GitHub: [github.com/AbdulRehman19-bit](https://github.com/AbdulRehman19-bit)
 
 ---
